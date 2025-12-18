@@ -20,7 +20,7 @@
 🌟 [TOOL OVERVIEW] Code Architect and Innovator
 
 <div align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=⚡+Welcome+to+PhishLok+V1.0;🛡️" alt="Animated Typing SVG"> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=⚡+Welcome+to+PhishLok+V1.0;" alt="Animated Typing SVG"> 
 </div>
 
 ---
