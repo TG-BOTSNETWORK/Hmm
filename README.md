@@ -97,30 +97,16 @@ Quick Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/H4ckethics138/PhishLok-V1.0.git
+git clone https://github.com/H4ckethics138/PhishLok V1.0.git
 
 # Navigate to the directory
-cd PhishLok-V1.0
-
-# Install dependencies
-pip install -r requirements.txt
+cd PhishLok V1.0
 
 # Run the tool
-python3 phishlok.py --help
+python3 PhishLok V1.0.py --
 ```
 
 Basic Commands
-
-```
-# Scan a suspicious URL
-./phishlok --scan-url https://example.com
-
-# Track location of an IP/Domain
-./phishlok --track-location 192.168.1.1
-
-# Enable automatic protection
-./phishlok --auto-protect enable
-```
 
 ---
 
